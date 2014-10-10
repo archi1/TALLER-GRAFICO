@@ -1,0 +1,27 @@
+styleheet.css
+
+h2
+ { display: block;
+	height: 100px;
+	width: 300px;
+	padding-right: 15px;
+	padding-left: 10px;
+	
+}
+h1 { font-family: impact; 
+	font-size: 24px
+
+}
+title { font-family: helvetica; 
+	font-size: 18px; 
+	color: #FF00FF;
+	text-align: center;
+}
+
+p { font-family: helvetica; 
+	font-size: 18px; 
+	color:#0000FF;
+	
+
+    }
+
