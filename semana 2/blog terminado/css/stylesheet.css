@@ -1,0 +1,108 @@
+
+
+.wrapper {
+  width: 900px;
+  margin: auto;
+  font-family: arial
+}
+
+header {
+     width: 990px;
+     height: 98px;
+     }
+
+h1 {
+  width: 218px;
+  height: 100;
+  font-family: arial;
+  font-size: 32px;
+  font-weight: bold;
+  padding-left: 10px;
+
+}
+
+nav { width: 287;
+      height: 30px;
+      float: right;
+      padding-top: -100px;
+
+}
+
+nav ul li {
+  float: left;
+  padding-left: 4px;
+  padding-right: 4px ;
+  list-style-type: none;
+  font-weight: bold;
+
+}
+
+aside { width: 230px;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 200%;
+        float: left;
+        padding-top: 10px;
+        padding-left: 10px;
+
+
+
+}
+
+aside li {
+    list-style-type: none;
+
+}
+
+section {
+     width: 707px;
+     height: 448px;
+     float: left;
+}
+
+h3 { font-family: impact;
+     font-size: 12px;
+     font-weight: bold;
+     line-height: 200%;
+
+}
+ 
+h2 { font-family: verdana;
+     font-size: 16px;
+     line-height: 200%;
+     font-weight: bold;
+   }
+
+p {
+font-family: arial;
+font-size: 16px;
+line-height: 150%;
+
+}
+
+
+
+article { width: 677px;
+          height:223px;
+          font-family: arial;
+          font-size: 14px;
+
+}
+
+footer { width: 990px;
+         height: 47px;
+         clear: both;
+         border-top: 1px black solid;
+         padding-left: 10px;
+
+
+}
+
+a{ text-decoration: none;
+   color:black;
+  font-family: arial;
+   font-weight: bold;
+   font-size: 14px;
+
+}

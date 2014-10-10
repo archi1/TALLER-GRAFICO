@@ -1,0 +1,78 @@
+
+
+.wrapper {
+  width: 900px;
+  margin: auto;
+}
+
+header {
+     width: 990px;
+     height: 98px;
+     border-bottom: 1px black solid;
+     display: block;
+}
+h1 {
+  width: 218px;
+  height: 73;
+  font-family: arial;
+  font-size: 25px;
+
+}
+
+nav { width: 287;
+      height: 45px;
+      float: right;
+      padding-top: -100px;
+
+}
+
+nav ul li {
+  float: left;
+  padding-left: 5px;
+  padding-right: 5px ;
+  list-style-type: none;
+  font-weight: bold;
+
+}
+
+aside { width: 230px;
+        height: 365px;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 180%;
+        float: left;
+
+
+}
+
+aside li {
+    list-style-type: none;
+}
+
+section {
+     width: 707px;
+     height: 448px;
+     float: left;
+}
+
+article { width: 677px;
+          height:223px;
+
+}
+
+footer { width: 990px;
+         height: 47px;
+         clear: both;
+         border-top: 1px black solid;
+
+
+}
+
+a{ text-decoration: none;
+   color:black;
+  font-family: arial;
+   font-weight: bold;
+   font-size: 14px;
+
+}
