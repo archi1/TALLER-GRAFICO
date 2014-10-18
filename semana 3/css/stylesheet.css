@@ -4,6 +4,7 @@
 .wrapper {
 	width: 990px;
 	margin: 0 auto;
+	height: 650px;
 
 
 }
@@ -19,10 +20,10 @@ header
 
 img 
 {        height: 200px;
-	     width: 290px;
+	     width: 350px;
 	    position: absolute;
 	    top: 60px;
-	    left: 350px;
+	    left: 450px;
 
 
 }
@@ -31,38 +32,59 @@ nav {
 	width: 990px;
 	background-color: #230b03;
 	top:200px;
-	text-align: center;
 	clear: both;
 	padding: 0px;
 
+
 }
 
+a:hover {
+	background-color: #8a6145;
+	color: #230b03
 
+}
+
+a:visited {
+	background-color: #8a6145;
+	color: #230b03
+
+}
 
 ul { font-family: Arial;
      color: #ffffff;
-     list-style-type:none;
+    font-weight: lighter;
+     font-size: 14px;
+     text-align: center;
+     
      
 }
 
-ul li { display: inline-block;
-	    padding-top: 10px;
+ a {    padding-top: 10px;
 	    padding-left: 15px;
-    
+	    color: white;
+	    text-decoration: none;
+	    display: inline-block;
+	    float: left;
+	    padding: 13px;        
 }
+
 
 h2 { font-family: Arial;
 	 color: #230b03;
      padding-left: 35px;
-     font-size: 30px;
+     font-size: 24px;
      line-height: 200%;
+     font-weight: bold;
+
      
 
 }
 article{width: 350px;
-        height: 250px;
         float: left;
-        margin: 40px;
+        margin-right:50px;
+        margin-left: 65px;
+        margin-bottom: 20px;
+
 
     }
 
@@ -71,11 +93,19 @@ article p{font-family: arial;
 	     color:#230b03;
 	     margin-left: 40px;
 	     line-height: 140%;
+	     text-align: justify;
 
 }
 
+section{
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+
 footer { width: 990px;
-	     margin-top: 600px;
+	     margin-top: 420px;
 	     height: 40px;
 	     background-color: #230b03;
 	  
@@ -83,10 +113,14 @@ footer { width: 990px;
 }
 
 footer h4 {
+	font-family: arial;
 	color: #ffffff;
 list-style-type:none;
 padding-top: 10px;
-	    padding-left: 15px;
+  padding-left: 15px;
+  font-size: 12px;
     
 
 }
+
+/*float: left:*/ 
