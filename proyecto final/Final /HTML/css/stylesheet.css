@@ -104,6 +104,13 @@ h2 { padding-left: 250px;
 
 footer {
 	clear: both;
+ 
+
+}
+
+footer h4 {
+ display: inline-block;
+  text-align: right;
 
 }
 
@@ -113,6 +120,7 @@ h4 {
 	font-weight: bold;
 	font-family: helvetica;
 	padding-left: 950px;
+
 }
 
 
@@ -122,12 +130,11 @@ h4 {
   height: 400px;
  width: 1000px;
  padding-top: 100px;
- font-family: helvetica;
+ font-family: verdana;
 
 }
 
 
-}
 
 div h2 { font-size: 18px;
          font-family: helvetica;       
